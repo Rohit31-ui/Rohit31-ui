@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **rohitlad014.com** For Collaboration/Project or Anything E
 
 
 # 💫 About Me:
- Hi 👋, I'm Rohit Lad<br><br>🌐 Portfolio: [rohit-lad.netlify.app](https://rohit-lad.netlify.app/)<br><br>💻 I’m a Full Stack Web Developer with a strong foundation in **frontend** and **backend** technologies.  <br>I enjoy transforming ideas into digital reality and building applications that are scalable, efficient, and user-friendly.  <br><br>---<br><br>
+ Hi 👋, I'm Rohit Lad<br><br>🌐 Portfolio: [rohit-lad.netlify.app]([https://rohit-lad.netlify.app/](https://rohitlportfolio.netlify.app/)<br><br>💻 I’m a Full Stack Web Developer with a strong foundation in **frontend** and **backend** technologies.  <br>I enjoy transforming ideas into digital reality and building applications that are scalable, efficient, and user-friendly.  <br><br>---<br><br>
  ### 🚀 Skills & Technologies<br>- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Bootstrap  <br>- **Backend:** Node.js, Express.js, REST APIs, MongoDB, MySQL  <br>- **Tools:** Git, GitHub, Postman, VS Code, Netlify, Vercel  <br>- **Other Interests:** Cloud Computing (AWS), Java Programming  <br><br>---<br><br>
  ### 🌱 Currently Learning<br>- AWS Cloud Essentials  <br>- Data Structures & Algorithms (DSA)  <br><br>---<br><br>
  ### 📫 How to Reach Me<br>- 📧 Email: rohitlad012@gmail.com   <br>- 💼 LinkedIn: https://www.linkedin.com/in/rohit-lad-1550b4259/ 
